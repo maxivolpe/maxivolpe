@@ -1,4 +1,4 @@
-# Hola, soy Maximo Leonel Volpe 👋
+# Hola, soy Maximo Leonel Volpe 
 
 ### Full Stack Developer · Estudiante de Ingeniería de Sistemas
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy desarrollador Full Stack apasionado por construir soluciones web robustas y escalables. Actualmente cursando la carrera de Ingeniería de Sistemas, combino mis estudios con el desarrollo de proyectos reales que me permiten aplicar y profundizar mis conocimientos en arquitectura de software, bases de datos y desarrollo backend/frontend.
 
@@ -17,7 +17,7 @@ Soy desarrollador Full Stack apasionado por construir soluciones web robustas y 
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Backend
 
@@ -37,7 +37,7 @@ Soy desarrollador Full Stack apasionado por construir soluciones web robustas y 
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados - Realizados
 
 ### 🏋️ Gym Sport — SaaS de Gestión Deportiva
 
