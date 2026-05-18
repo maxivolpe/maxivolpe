@@ -10,7 +10,6 @@
 
 Soy desarrollador Full Stack apasionado por construir soluciones web robustas y escalables. Actualmente cursando la carrera de Ingeniería de Sistemas, combino mis estudios con el desarrollo de proyectos reales que me permiten aplicar y profundizar mis conocimientos en arquitectura de software, bases de datos y desarrollo backend/frontend.
 
-- 🔭 Trabajando en proyectos de **gestión deportiva**, **tasación inmobiliaria** y **gestión de assets web**
 - 🌱 Aprendiendo sobre **arquitectura de sistemas** y **diseño de bases de datos**
 - 💡 Interesado en crear software de calidad con foco en rendimiento y mantenibilidad
 - 🎯 Objetivo: crecer como ingeniero de software resolviendo problemas del mundo real
